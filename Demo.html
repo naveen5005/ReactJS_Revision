@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        let someNumber = (data) => {
+            let result = data.reduce((a, b) => {
+                return a + b;
+            })
+            if (result.toString().split("").length === 1) {
+                console.log(result);
+            } else {
+                return someNumber(result.toString().split("").map((item)=> {
+                    return parseInt(item)
+                }));
+            }
+
+        }
+        someNumber([1, 2, 3, 4, 5])
+    </script>
+</body>
+
+</html>

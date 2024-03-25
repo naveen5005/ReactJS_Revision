@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        function convertArrayToSingleDigit(array) {
+            //  reduce to sum all elements of the array
+            const sum = array.reduce((a, b) => a + b);
+
+            // Convert the sum to a single digit
+            return convertToSingleDigit(sum);
+        }
+
+        function convertToSingleDigit(num) {
+            // Convert number to string to access individual digits and store it in a array using split then convert each string into a number.
+            const digits = num.toString().split('').map(Number);
+
+            // Use reduce to sum the digits
+            const result = digits.reduce((a, b) => a + b);
+
+              // If result is still a two-digit number, recursively call the function
+              if (result >= 10) {
+                return convertToSingleDigit(result);
+            } else {
+                return result;
+            }
+        }
+
+        const array = [1, 2, 3, 4, 5,6]
+        const singleDigitResult = convertArrayToSingleDigit(array);
+        console.log(singleDigitResult);
+
+    </script>
+</body>
+
+</html>
