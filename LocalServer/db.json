@@ -20,16 +20,6 @@
       "id": 3
     },
     {
-      "fname": "syam Kumar",
-      "gender": "Male",
-      "areasOfInterest": [
-        "JS",
-        "REACTJS"
-      ],
-      "state": "TS",
-      "id": 4
-    },
-    {
       "fname": "Naveen Babu Bellam",
       "gender": "Male",
       "areasOfInterest": [
@@ -38,6 +28,25 @@
       ],
       "state": "TS",
       "id": 5
+    },
+    {
+      "fname": "maheshwari",
+      "gender": "Female",
+      "areasOfInterest": [
+        "JS",
+        "REACTJS"
+      ],
+      "state": "TS",
+      "id": 6
+    },
+    {
+      "fname": "kavya sri",
+      "gender": "Female",
+      "areasOfInterest": [
+        "CSS"
+      ],
+      "state": "TS",
+      "id": 7
     }
   ],
   "persons": [
