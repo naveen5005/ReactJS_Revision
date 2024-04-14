@@ -21,15 +21,34 @@
       "id": 5
     },
     {
-      "fname": "mahesh kumar",
-      "gender": "Male",
+      "fname": "kavya sri",
+      "gender": "Female",
       "areasOfInterest": [
-        "JS",
-        "REACTJS",
+        "CSS",
+        "HTML"
+      ],
+      "state": "TS",
+      "id": 7
+    },
+    {
+      "fname": "",
+      "gender": "",
+      "areasOfInterest": [
         "CSS"
       ],
-      "state": "AP",
-      "id": 6
+      "state": "",
+      "id": 8
+    },
+    {
+      "fname": "",
+      "gender": "",
+      "areasOfInterest": [
+        "CSS",
+        "JS",
+        "REACTJS"
+      ],
+      "state": "",
+      "id": 9
     }
   ],
   "persons": [
