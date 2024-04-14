@@ -11,42 +11,25 @@
       "id": 1
     },
     {
-      "fname": "priya",
-      "gender": "Others",
-      "areasOfInterest": [
-        "HTML"
-      ],
-      "state": "TS",
-      "id": 3
-    },
-    {
-      "fname": "Naveen Babu Bellam",
+      "fname": "Naveen",
       "gender": "Male",
       "areasOfInterest": [
         "REACTJS",
         "JS"
       ],
-      "state": "TS",
+      "state": "KA",
       "id": 5
     },
     {
-      "fname": "maheshwari",
-      "gender": "Female",
+      "fname": "mahesh kumar",
+      "gender": "Male",
       "areasOfInterest": [
         "JS",
-        "REACTJS"
-      ],
-      "state": "TS",
-      "id": 6
-    },
-    {
-      "fname": "kavya sri",
-      "gender": "Female",
-      "areasOfInterest": [
+        "REACTJS",
         "CSS"
       ],
-      "state": "TS",
-      "id": 7
+      "state": "AP",
+      "id": 6
     }
   ],
   "persons": [
