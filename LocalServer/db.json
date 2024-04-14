@@ -31,24 +31,23 @@
       "id": 7
     },
     {
-      "fname": "",
-      "gender": "",
+      "fname": "kiran",
+      "gender": "Male",
       "areasOfInterest": [
-        "CSS"
+        "JS"
       ],
-      "state": "",
-      "id": 8
+      "state": "TS",
+      "id": 10
     },
     {
       "fname": "",
       "gender": "",
       "areasOfInterest": [
-        "CSS",
         "JS",
-        "REACTJS"
+        "BOOTSTRAP"
       ],
       "state": "",
-      "id": 9
+      "id": 11
     }
   ],
   "persons": [
