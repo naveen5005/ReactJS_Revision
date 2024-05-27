@@ -30,19 +30,6 @@
       "id": 10
     },
     {
-      "fname": "naveena",
-      "gender": "Male",
-      "areasOfInterest": [
-        "HTML",
-        "BOOTSTRAP",
-        "CSS",
-        "REACTJS",
-        "JS"
-      ],
-      "state": "AP",
-      "id": 11
-    },
-    {
       "fname": "kavya sri",
       "gender": "Female",
       "areasOfInterest": [
@@ -51,6 +38,36 @@
       ],
       "state": "AP",
       "id": 12
+    },
+    {
+      "fname": "stella",
+      "gender": "Female",
+      "areasOfInterest": [
+        "CSS",
+        "REACTJS"
+      ],
+      "state": "TS",
+      "id": 13
+    },
+    {
+      "fname": "dummy",
+      "gender": "Female",
+      "areasOfInterest": [
+        "HTML",
+        "CSS",
+        "JS",
+        "REACTJS",
+        "BOOTSTRAP"
+      ],
+      "state": "TS",
+      "id": 14
+    },
+    {
+      "fname": "",
+      "gender": "",
+      "areasOfInterest": [],
+      "state": "",
+      "id": 15
     }
   ],
   "persons": [
