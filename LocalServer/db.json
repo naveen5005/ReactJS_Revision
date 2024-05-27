@@ -1,16 +1,6 @@
 {
   "users": [
     {
-      "fname": "naveen Kumar",
-      "gender": "Male",
-      "areasOfInterest": [
-        "CSS",
-        "JS"
-      ],
-      "state": "AP",
-      "id": 1
-    },
-    {
       "fname": "Naveen",
       "gender": "Male",
       "areasOfInterest": [
@@ -63,10 +53,13 @@
       "id": 14
     },
     {
-      "fname": "",
-      "gender": "",
-      "areasOfInterest": [],
-      "state": "",
+      "fname": "sample",
+      "gender": "Others",
+      "areasOfInterest": [
+        "JS",
+        "REACTJS"
+      ],
+      "state": "KA",
       "id": 15
     }
   ],
