@@ -21,16 +21,6 @@
       "id": 5
     },
     {
-      "fname": "kavya sri",
-      "gender": "Female",
-      "areasOfInterest": [
-        "CSS",
-        "HTML"
-      ],
-      "state": "TS",
-      "id": 7
-    },
-    {
       "fname": "kiran",
       "gender": "Male",
       "areasOfInterest": [
@@ -40,14 +30,27 @@
       "id": 10
     },
     {
-      "fname": "",
-      "gender": "",
+      "fname": "naveena",
+      "gender": "Male",
       "areasOfInterest": [
-        "JS",
-        "BOOTSTRAP"
+        "HTML",
+        "BOOTSTRAP",
+        "CSS",
+        "REACTJS",
+        "JS"
       ],
-      "state": "",
+      "state": "AP",
       "id": 11
+    },
+    {
+      "fname": "kavya sri",
+      "gender": "Female",
+      "areasOfInterest": [
+        "CSS",
+        "HTML"
+      ],
+      "state": "AP",
+      "id": 12
     }
   ],
   "persons": [
