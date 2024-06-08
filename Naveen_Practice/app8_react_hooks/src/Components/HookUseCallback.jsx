@@ -8,6 +8,10 @@ const HookUseCallback = () => {
     const getGreetings = useCallback(() => {
         return `Hello ${name}!`;
     },[name]);
+
+    // const getGreetings = () => {
+    //     return `Hello ${name}!`;
+    // };
     
     return (
         <div>
