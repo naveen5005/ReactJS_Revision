@@ -45,22 +45,10 @@
       "areasOfInterest": [
         "HTML",
         "CSS",
-        "JS",
-        "REACTJS",
-        "BOOTSTRAP"
+        "REACTJS"
       ],
       "state": "TS",
       "id": 14
-    },
-    {
-      "fname": "sample",
-      "gender": "Others",
-      "areasOfInterest": [
-        "JS",
-        "REACTJS"
-      ],
-      "state": "KA",
-      "id": 15
     }
   ],
   "persons": [
