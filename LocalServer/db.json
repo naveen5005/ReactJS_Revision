@@ -49,6 +49,19 @@
       ],
       "state": "TS",
       "id": 14
+    },
+    {
+      "fname": "test",
+      "gender": "Others",
+      "areasOfInterest": [
+        "HTML",
+        "CSS",
+        "BOOTSTRAP",
+        "REACTJS",
+        "JS"
+      ],
+      "state": "AP",
+      "id": 15
     }
   ],
   "persons": [
