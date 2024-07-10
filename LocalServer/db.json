@@ -40,14 +40,13 @@
       "id": 13
     },
     {
-      "fname": "dummy",
+      "fname": "dummy0001",
       "gender": "Female",
       "areasOfInterest": [
         "HTML",
-        "CSS",
-        "REACTJS"
+        "CSS"
       ],
-      "state": "TS",
+      "state": "AP",
       "id": 14
     },
     {
@@ -55,10 +54,7 @@
       "gender": "Others",
       "areasOfInterest": [
         "HTML",
-        "CSS",
-        "BOOTSTRAP",
-        "REACTJS",
-        "JS"
+        "BOOTSTRAP"
       ],
       "state": "AP",
       "id": 15
