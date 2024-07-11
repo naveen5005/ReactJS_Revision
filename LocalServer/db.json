@@ -14,7 +14,11 @@
       "fname": "kiran",
       "gender": "Male",
       "areasOfInterest": [
-        "JS"
+        "JS",
+        "REACTJS",
+        "BOOTSTRAP",
+        "CSS",
+        "HTML"
       ],
       "state": "TS",
       "id": 10
@@ -40,24 +44,23 @@
       "id": 13
     },
     {
-      "fname": "dummy0001",
-      "gender": "Female",
-      "areasOfInterest": [
-        "HTML",
-        "CSS"
-      ],
-      "state": "AP",
-      "id": 14
-    },
-    {
       "fname": "test",
       "gender": "Others",
       "areasOfInterest": [
-        "HTML",
-        "BOOTSTRAP"
+        "HTML"
       ],
       "state": "AP",
       "id": 15
+    },
+    {
+      "fname": "Chandrakala",
+      "gender": "Female",
+      "areasOfInterest": [
+        "REACTJS",
+        "CSS"
+      ],
+      "state": "TS",
+      "id": 16
     }
   ],
   "persons": [
