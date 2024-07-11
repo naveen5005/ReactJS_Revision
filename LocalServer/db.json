@@ -1,66 +1,26 @@
 {
   "users": [
     {
-      "fname": "Naveen",
+      "fname": "Naveen Babu",
       "gender": "Male",
       "areasOfInterest": [
-        "REACTJS",
-        "JS"
-      ],
-      "state": "KA",
-      "id": 5
-    },
-    {
-      "fname": "kiran",
-      "gender": "Male",
-      "areasOfInterest": [
-        "JS",
-        "REACTJS",
-        "BOOTSTRAP",
-        "CSS",
-        "HTML"
-      ],
-      "state": "TS",
-      "id": 10
-    },
-    {
-      "fname": "kavya sri",
-      "gender": "Female",
-      "areasOfInterest": [
-        "CSS",
-        "HTML"
-      ],
-      "state": "AP",
-      "id": 12
-    },
-    {
-      "fname": "stella",
-      "gender": "Female",
-      "areasOfInterest": [
-        "CSS",
         "REACTJS"
       ],
-      "state": "TS",
-      "id": 13
+      "state": "AP",
+      "id": 1
     },
     {
-      "fname": "test",
+      "fname": "dummy01",
       "gender": "Others",
       "areasOfInterest": [
+        "JS",
+        "CSS",
+        "REACTJS",
+        "BOOTSTRAP",
         "HTML"
       ],
-      "state": "AP",
-      "id": 15
-    },
-    {
-      "fname": "Chandrakala",
-      "gender": "Female",
-      "areasOfInterest": [
-        "REACTJS",
-        "CSS"
-      ],
       "state": "TS",
-      "id": 16
+      "id": 2
     }
   ],
   "persons": [
