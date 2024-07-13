@@ -13,14 +13,32 @@
       "fname": "dummy01",
       "gender": "Others",
       "areasOfInterest": [
-        "JS",
-        "CSS",
-        "REACTJS",
+        "HTML",
         "BOOTSTRAP",
-        "HTML"
+        "JS",
+        "REACTJS"
       ],
       "state": "TS",
       "id": 2
+    },
+    {
+      "fname": "naveen",
+      "gender": "Others",
+      "areasOfInterest": [
+        "JS",
+        "CSS"
+      ],
+      "state": "KA",
+      "id": 4
+    },
+    {
+      "fname": "Naveena",
+      "gender": "Female",
+      "areasOfInterest": [
+        "JS"
+      ],
+      "state": "",
+      "id": 5
     }
   ],
   "persons": [
