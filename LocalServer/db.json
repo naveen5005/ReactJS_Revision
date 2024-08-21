@@ -10,35 +10,14 @@
       "id": 1
     },
     {
-      "fname": "dummy01",
-      "gender": "Others",
-      "areasOfInterest": [
-        "HTML",
-        "BOOTSTRAP",
-        "JS",
-        "REACTJS"
-      ],
-      "state": "TS",
-      "id": 2
-    },
-    {
       "fname": "naveen",
       "gender": "Others",
       "areasOfInterest": [
-        "JS",
-        "CSS"
+        "BOOTSTRAP",
+        "HTML"
       ],
-      "state": "KA",
+      "state": "AP",
       "id": 4
-    },
-    {
-      "fname": "Naveena",
-      "gender": "Female",
-      "areasOfInterest": [
-        "JS"
-      ],
-      "state": "",
-      "id": 5
     }
   ],
   "persons": [
@@ -165,16 +144,16 @@
       "id": 9
     }
   ],
-  "usersLoginDetails" : [
+  "usersLoginDetails": [
     {
-      "id" : 1,
-      "uname" : "bellamnaveen314@gmail.com",
-      "pwd" : "12345"
+      "id": 1,
+      "uname": "bellamnaveen314@gmail.com",
+      "pwd": "12345"
     },
     {
-      "id" : 2,
-      "uname" : "kiran@gmail.com",
-      "pwd" : "12345"
+      "id": 2,
+      "uname": "kiran@gmail.com",
+      "pwd": "12345"
     }
   ]
 }
