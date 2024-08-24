@@ -10,14 +10,29 @@
       "id": 1
     },
     {
-      "fname": "naveen",
+      "fname": "kavya",
+      "gender": "Female",
+      "areasOfInterest": [
+        "HTML",
+        "CSS",
+        "JS",
+        "REACTJS",
+        "BOOTSTRAP"
+      ],
+      "state": "TS",
+      "satte": "TS",
+      "id": 2
+    },
+    {
+      "fname": "check01",
       "gender": "Others",
       "areasOfInterest": [
-        "BOOTSTRAP",
-        "HTML"
+        "HTML",
+        "CSS",
+        "JS"
       ],
-      "state": "AP",
-      "id": 4
+      "state": "KA",
+      "id": 3
     }
   ],
   "persons": [
